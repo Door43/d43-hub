@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hub:home|Door43 (hub)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hub|d43-hub repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hub/archive/master.zip|d43-hub.zip]]
+
+**Recent Changes**
+{{changes>ns = hub}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hub|Ethnologue data]]
+
